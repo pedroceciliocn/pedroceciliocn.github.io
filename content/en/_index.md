@@ -42,23 +42,12 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: skills
-      content:
-        title: Skills
-        text: 'Skills'
-        items:
-          - name: App Runtime
-            description: 'eqwewqqwe'
-            icon: object-group
-            icon_pack: fa
-          - name: Rust
-            description: 'eqweeqwew'
-            icon: rust
-            icon_pack: fab
-          - name: Web Assembly
-            description: 'eqwewqewqewewqe'
-            icon: space-shuttle
-            icon_pack: fa
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   - block: collection
     id: papers
     content:
