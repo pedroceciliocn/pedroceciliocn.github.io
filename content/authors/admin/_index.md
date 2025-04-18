@@ -48,68 +48,72 @@ profiles:
   - icon: "custom/letterboxd-brands-solid"
     url: https://letterboxd.com/pedroissoai/ 
 
-interests:
+interesses:
   - QA - Test Engineering
   - Automação (CI/CD)
   - Análise de Dados
   - Computer Vision
   - Webscraping
 
-education:
-  - area: PhD Artificial Intelligence
+educação:
+  - area: Bacharelado em Sistema de Informação
     institution: CIn UFPE
     date_start: 2021-01-01
     date_end: 2025-08-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  #- area: MEng Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.8/4.0
+  #
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #- area: BSc Artificial Intelligence
+  #  institution: Massachusetts Institute of Technology
+  #  date_start: 2016-01-01
+  #  date_end: 2020-12-31
+  #  summary: |
+  #    GPA: 3.4/4.0
+  #    
+  #    Courses included:
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+experiência:
+  - position: Software Testing Intern
+    company_name: Projeto CIn/Motorola
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-10-17
+    date_end: 2024-10-17
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Atuei no Projeto CIn-Motorola, focado na produção e execução de testes de software embarcado para dispositivos móveis da Motorola. Minha principal responsabilidade foi garantir a estabilidade e qualidade do software antes de seu lançamento, através da execução de testes automatizados e manuais, identificação de falhas e desenvolvimento de soluções para otimização dos processos de QA.
+      Principais Atividades e Contribuições:
+      - Testes Automatizados e Estabilidade do Software: Realizei testes automatizados em dispositivos Motorola, assegurando que as novas versões do software mantivessem sua estabilidade e segurança.
+      - Desenvolvimento e Manutenção de Automação: Criei e mantive scripts de automação utilizando Python, pytest, ADB, Git e Docker, reduzindo interações manuais e otimizando fluxos de testes. Trabalhei em ambientes Linux dockerizados, configurando servidores de testes e integrando execuções automatizadas ao Jenkins (CI/CD).
+      - Monitoramento e Suporte a Desenvolvedores: Acompanhei dashboards e logs de execução, identificando crashes e falhas no software. Além disso, forneci suporte aos desenvolvedores, entregando relatórios detalhados para correção de bugs.
+      - Melhoria Contínua e Otimização de Processos: Trabalhei na automação da configuração remota de dispositivos, desde a instalação de novas builds até a execução de testes automatizados, garantindo mais eficiência e menos erros nos processos.
+      - Colaboração Internacional e Metodologias Ágeis: Participei de reuniões baseadas em Scrum, colaborando com equipes globais do Brasil, EUA, Índia e China, garantindo alinhamento entre os times e implementação de melhores práticas de QA.
+      Essa experiência consolidou minhas habilidades em QA, automação de testes, análise de logs, desenvolvimento de soluções de teste e colaboração internacional, além de aprofundar meu conhecimento em ferramentas DevOps e processos ágeis.
+#  - position: Backend Software Engineer
+#    company_name: X
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      Responsibilities include:
+#      - Migrated infrastructure to a new data center
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
