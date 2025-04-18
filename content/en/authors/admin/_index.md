@@ -60,10 +60,9 @@ education:
     institution: CIn UFPE
     date_start: 2021-01-01
     date_end: 2025-08-31
-    summary: |
-    I was a volunteer teaching assistant for the Programming 1 course for the Information Systems class in the 2021.1 semester, and for the Introduction to Programming course for the Computer Science program during the 2021.2, 2022.1, and 2022.2 semesters. As a TA, I presented content, participated in collaborative problem-solving, and helped create exercise lists related to topics covered in the course syllabus.
+    summary: I was a volunteer teaching assistant for the Programming 1 course for the Information Systems class in the 2021.1 semester, and for the Introduction to Programming course for the Computer Science program during the 2021.2, 2022.1, and 2022.2 semesters. As a TA, I presented content, participated in collaborative problem-solving, and helped create exercise lists related to topics covered in the course syllabus.
     Currently, from an academic perspective, I am studying machine learning with a focus on character recognition (OCR), using libraries such as Tesseract, OpenCV, TensorFlow, PyTorch, and scikit-learn—further fueling my passion for technologies involving data, computer vision, and artificial intelligence.
-    
+
   #button:
   #  text: 'Read Thesis'
   #  url: 'https://example.com'
