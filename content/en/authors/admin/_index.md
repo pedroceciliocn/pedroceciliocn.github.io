@@ -99,31 +99,31 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 100
+
         icon: hb/python
       - name: Data Science
         description: ''
-        percent: 100
+
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 100
+
         icon: circle-stack
       - name: Git
         description: ''
-        percent: 100
+
         icon: custom/git-original
       - name: Confluence
         description: ''
-        percent: 100
+
         icon: custom/confluence-original
       - name: Docker
         description: ''
-        percent: 100
+
         icon: brands/docker
       - name: Linux
         description: ''
-        percent: 100
+
         icon: brands/linux
 
   - name: Hobbies
@@ -132,38 +132,38 @@ skills:
     items:
       - name: Gym
         description: ''
-        percent: 60
+
         icon: person-simple-walk
       - name: Walking
         description: ''
-        percent: 60
+
         icon: person-simple-walk
       - name: Dogs
         description: ''
-        percent: 100
+
         icon: dog
       - name: Cooking
         description: ''
-        percent: 80
+
         icon: food
       - name: Drawing
         description: ''
-        percent: 80
+
       - name: Soccer
         description: ''
-        percent: 80
+
         icon: ball
       - name: Reading
         description: ''
-        percent: 80
+
         icon: book
       - name: Dancing
         description: ''
-        percent: 80
+
         icon: dance
       - name: Podcast listening
         description: ''
-        percent: 60
+
         icon: headphone
 languages:
   - name: English

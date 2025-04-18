@@ -48,7 +48,7 @@ sections:
       title: Skills
       username: 'admin'
     design:
-      columns: '2'
+      columns: '3'
       
   - block: collection
     content:
