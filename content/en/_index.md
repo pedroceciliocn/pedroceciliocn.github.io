@@ -42,13 +42,6 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: skills
-    content:
-      title: "Skills"
-      text: ""
-      username: admin
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
