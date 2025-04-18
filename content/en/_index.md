@@ -42,6 +42,23 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
+  - block: features
+      content:
+        title: eqwewqe
+        text: 'eqwewqewqeq'
+        items:
+          - name: App Runtime
+            description: 'eqwewqqwe'
+            icon: object-group
+            icon_pack: fa
+          - name: Rust
+            description: 'eqweeqwew'
+            icon: rust
+            icon_pack: fab
+          - name: Web Assembly
+            description: 'eqwewqewqewewqe'
+            icon: space-shuttle
+            icon_pack: fa
   - block: collection
     id: papers
     content:
