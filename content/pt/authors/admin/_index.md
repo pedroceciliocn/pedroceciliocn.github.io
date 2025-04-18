@@ -57,20 +57,20 @@ interests:
 
 education:
   - area: Bacharelado em Sistema de Informação
-    institution: CIn UFPE
+    institution: CIn UFPE, Recife-PE
     date_start: 2021-01-01
     date_end: 2025-08-31
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      Fui monitor voluntário na disciplina de Programação 1 para a turma de Sistemas de Informação no semestre 2021.1, e de Introdução a Programação, também para o curso de Ciência da Computação nos semestres 2021.2, 2022.1 e 2022.2. Durante a monitoria, apresentei conteúdo, participei da resolução conjunta de exercícios e da elaboração de listas referentes a temas presentes na ementa do curso. Atualmente, academicamente, estudo aprendizado de máquina com foco em reconhecimento de caracteres (OCR), utilizando bibliotecas como Tesseract, OpenCV, TensorFlow, PyTorch e scikit-learn, reforçando minha paixão por tecnologias que envolvam dados, visão computacional e inteligência artificial.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  #- area: MEng Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
-  #  summary: |
-  #    GPA: 3.8/4.0
+  - area: Bacharelado em Administração
+    institution: UNIVASF (Universidade Federal do Vale do São Francisco), Petrolina-PE
+    date_start: 2019-01-01
+    date_end: 2020-01-31
+    summary: |
+      Participei do projeto de extensão UNATI (Universidade Aberta à Terceira Idade), ministrando palestras sobre tecnologia e acessibilidade, e desenvolvendo conteúdos audiovisuais com foco em saúde mental e física para a terceira idade durante a pandemia.
   #
   #    Courses included:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
