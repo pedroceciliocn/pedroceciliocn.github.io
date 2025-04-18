@@ -20,16 +20,16 @@ pt:
         weight: 1
       - name: Publicações
         url: '#papers'
-        weight: 1
+        weight: 2
       - name: Experiência
         url: '#experience'
-        weight: 1
+        weight: 3
       - name: Projetos
         url: '#projects'
-        weight: 1
+        weight: 4
       - name: Teaching
         url: '#teaching'
-        weight: 1
+        weight: 5
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
