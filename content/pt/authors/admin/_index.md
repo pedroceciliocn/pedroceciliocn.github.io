@@ -61,10 +61,11 @@ education:
     date_start: 2021-01-01
     date_end: 2025-08-31
     summary: |
-      Fui monitor voluntário na disciplina de Programação 1 para a turma de Sistemas de Informação no semestre 2021.1, e de Introdução a Programação, também para o curso de Ciência da Computação nos semestres 2021.2, 2022.1 e 2022.2. Durante a monitoria, apresentei conteúdo, participei da resolução conjunta de exercícios e da elaboração de listas referentes a temas presentes na ementa do curso. Atualmente, academicamente, estudo aprendizado de máquina com foco em reconhecimento de caracteres (OCR), utilizando bibliotecas como Tesseract, OpenCV, TensorFlow, PyTorch e scikit-learn, reforçando minha paixão por tecnologias que envolvam dados, visão computacional e inteligência artificial.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+    Fui monitor voluntário na disciplina de Programação 1 para a turma de Sistemas de Informação no semestre 2021.1, e de Introdução a Programação, também para o curso de Ciência da Computação nos semestres 2021.2, 2022.1 e 2022.2. Durante a monitoria, apresentei conteúdo, participei da resolução conjunta de exercícios e da elaboração de listas referentes a temas presentes na ementa do curso. Atualmente, academicamente, estudo aprendizado de máquina com foco em reconhecimento de caracteres (OCR), utilizando bibliotecas como Tesseract, OpenCV, TensorFlow, PyTorch e scikit-learn, reforçando minha paixão por tecnologias que envolvam dados, visão computacional e inteligência artificial.
+
+  #button:
+  #  text: 'Read Thesis'
+  #  url: 'https://example.com'
   - area: Bacharelado em Administração
     institution: UNIVASF (Universidade Federal do Vale do São Francisco), Petrolina-PE
     date_start: 2019-01-01
