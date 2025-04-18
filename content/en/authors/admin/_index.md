@@ -60,34 +60,10 @@ education:
     institution: CIn UFPE
     date_start: 2021-01-01
     date_end: 2025-08-31
-    summary: I was a volunteer teaching assistant for the Programming 1 course for the Information Systems class in the 2021.1 semester, and for the Introduction to Programming course for the Computer Science program during the 2021.2, 2022.1, and 2022.2 semesters. As a TA, I presented content, participated in collaborative problem-solving, and helped create exercise lists related to topics covered in the course syllabus.
+    summary: | 
+    I was a volunteer teaching assistant for the Programming 1 course for the Information Systems class in the 2021.1 semester, and for the Introduction to Programming course for the Computer Science program during the 2021.2, 2022.1, and 2022.2 semesters. As a TA, I presented content, participated in collaborative problem-solving, and helped create exercise lists related to topics covered in the course syllabus.
     Currently, from an academic perspective, I am studying machine learning with a focus on character recognition (OCR), using libraries such as Tesseract, OpenCV, TensorFlow, PyTorch, and scikit-learn—further fueling my passion for technologies involving data, computer vision, and artificial intelligence.
 
-  #button:
-  #  text: 'Read Thesis'
-  #  url: 'https://example.com'
-  #- area: MEng Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
-  #  summary: |
-  #    GPA: 3.8/4.0
-  #
-  #    Courses included:
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #- area: BSc Artificial Intelligence
-  #  institution: Massachusetts Institute of Technology
-  #  date_start: 2016-01-01
-  #  date_end: 2020-12-31
-  #  summary: |
-  #    GPA: 3.4/4.0
-  #    
-  #    Courses included:
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Software Testing Intern
     company_name: CIn/Motorola Project UFPE FADE, Recife-PE
