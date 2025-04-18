@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pedro Neto
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pedro
+last_name: Neto
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Software Engineer | QA | Automation | Python | Django | Flask | R | SQL
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - QA - Test Engineering
+  - Automação (CI/CD)
+  - Análise de Dados
+  - Computer Vision
+  - Webscraping
 
 education:
   - area: PhD Artificial Intelligence
@@ -143,10 +145,10 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
+    percent: 80
   - name: Portuguese
+    percent: 100
+  - name: Libras
     percent: 25
 
 # Awards.
@@ -183,4 +185,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sou estudante de graduação em Sistemas de Informação pela Universidade Federal de Pernambuco (UFPE), com um forte interesse em automação, webscraping, análise de dados, engenharia de software e IA (mais precisamente em visão computacional). Fui estagiário no Projeto CIn/Motorola, onde atuei diretamente com equipes multidisciplinares do Brasil, Estados Unidos, Índia e China, desenvolvendo habilidades de colaboração em um ambiente global para garantir a qualidade de software em dispositivos móveis.
+Minha experiência incluiu a criação e manutenção de scripts de automação de testes, execução de testes automatizados, e a utilização de ferramentas como Python, Linux, ADB, Jenkins, Docker, Git, também adquiri conhecimento em metodologias ágeis. Além disso, possuo conhecimento em desenvolvimento com Django e Flask, além de, em análise de dados, manipulação de estruturas como DataFrames e aplicação de bibliotecas como Pandas, NumPy e Matplotlib para visualização e interpretação de dados.
