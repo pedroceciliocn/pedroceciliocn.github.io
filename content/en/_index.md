@@ -42,17 +42,24 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: papers
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     view: article-grid
-  #     columns: 2
+  - block: skills
+    content:
+      title: "Skills"
+      text: ""
+      username: admin
+    design:
+      columns: '1'
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   - block: collection
     content:
       title: Recent Publications
