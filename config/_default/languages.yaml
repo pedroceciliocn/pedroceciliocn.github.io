@@ -10,15 +10,26 @@ en:
 pt:
   languageCode: pt
   contentDir: content/pt
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
-
+ title: Página do Pedro Neto
+ params:
+   description: Site description in Chinese...
+ menu:
+   main:
+     - name: Sobre mim
+       url: '#about'
+       weight: 1
+     - name: Publicações
+       url: '#papers'
+       weight: 1
+     - name: Experiência
+       url: '#experience'
+       weight: 1
+     - name: Projetos
+       url: '#projects'
+       weight: 1
+     - name: Teaching
+       url: '#teaching'
+       weight: 1
 # Uncomment the lines below to configure your website in a second language.
 #zh:
 #  languageCode: zh-Hans
