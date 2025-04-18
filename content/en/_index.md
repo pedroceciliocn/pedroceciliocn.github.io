@@ -45,9 +45,17 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
+      title: Skills
       subtitle: A subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
+  - block: skills
+    content:
+      title: Skills
+      username: 'admin'
+    design:
+      columns: '2'
+      
   - block: collection
     id: papers
     content:
