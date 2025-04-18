@@ -30,14 +30,12 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: skills
+  - block: resume-skills
     content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
+      title: Skills & Hobbies
       username: admin
     design:
-      columns: '1'
+      show_skill_percentage: false
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
