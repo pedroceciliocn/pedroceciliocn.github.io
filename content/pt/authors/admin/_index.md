@@ -189,7 +189,7 @@ languages:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Sobre mim
 
 Sou estudante de graduação em Sistemas de Informação pela Universidade Federal de Pernambuco (UFPE), com um forte interesse em automação, webscraping, análise de dados, engenharia de software e IA (mais precisamente em visão computacional). Fui estagiário no Projeto CIn/Motorola, onde atuei diretamente com equipes multidisciplinares do Brasil, Estados Unidos, Índia e China, desenvolvendo habilidades de colaboração em um ambiente global para garantir a qualidade de software em dispositivos móveis.
 Minha experiência incluiu a criação e manutenção de scripts de automação de testes, execução de testes automatizados, e a utilização de ferramentas como Python, Linux, ADB, Jenkins, Docker, Git, também adquiri conhecimento em metodologias ágeis. Além disso, possuo conhecimento em desenvolvimento com Django e Flask, além de, em análise de dados, manipulação de estruturas como DataFrames e aplicação de bibliotecas como Pandas, NumPy e Matplotlib para visualização e interpretação de dados.
