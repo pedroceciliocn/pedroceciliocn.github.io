@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Página do Pedro Neto
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Pedro Neto
@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: custom/lastfm
+  - icon: "custom/lastfm"
     url: https://last.fm/user/pedroceciliocn
-  - icon: custom/letterboxd-brands-solid
+  - icon: "custom/letterboxd-brands-solid"
     url: https://letterboxd.com/pedroissoai/ 
 
 interests:
@@ -57,9 +57,9 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: CIn UFPE
+    date_start: 2021-01-01
+    date_end: 2025-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
