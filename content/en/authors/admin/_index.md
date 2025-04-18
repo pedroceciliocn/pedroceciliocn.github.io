@@ -100,7 +100,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python-original
+        icon: custom/python-original
       - name: Data Science
         description: ''
         percent: 100
