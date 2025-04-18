@@ -32,7 +32,7 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:pedroceciliocn@gmail.com'
-    label: E-mail Me
+    label: Mande um e-mail
   - icon: brands/github
     url: https://github.com/pedroceciliocn
   - icon: brands/linkedin
