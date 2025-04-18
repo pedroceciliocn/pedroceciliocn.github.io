@@ -4,6 +4,8 @@ summary: "Apresentação de slides sobre Dicionários e Tuplas na disciplina de 
 date: 2025-04-18
 type: teaching
 show_in_nav: true
+image:
+  preview_only: true
 ---
 
 <iframe src="https://pedroceciliocn.github.io/apresenta-o-monitoria-p1-dicionarios/#1"

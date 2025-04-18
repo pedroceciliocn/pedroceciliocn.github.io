@@ -4,6 +4,8 @@ summary: "Apresentação de slides sobre recursão na disciplina de Programaçã
 date: 2025-04-18
 type: teaching
 show_in_nav: true
+image:
+  preview_only: true
 ---
 
 <iframe src="https://pedroceciliocn.github.io/apresenta-o-monitoria-p1-recurs-o/#1"
