@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Experiência'
 date: 2023-10-24
 type: landing
 
@@ -30,6 +30,6 @@ sections:
   #     username: admin
   - block: resume-languages
     content:
-      title: Languages
+      title: Linguagens
       username: admin
 ---

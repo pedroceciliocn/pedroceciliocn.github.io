@@ -50,13 +50,13 @@ profiles:
 
 interests:
   - QA - Test Engineering
-  - Automação (CI/CD)
-  - Análise de Dados
+  - Automation (CI/CD)
+  - Data Analysis
   - Computer Vision
   - Webscraping
 
 education:
-  - area: Bacharelado em Sistema de Informação
+  - area: Bachelor's Degree in Information Systems
     institution: CIn UFPE
     date_start: 2021-01-01
     date_end: 2025-08-31
@@ -89,20 +89,20 @@ education:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Software Testing Intern
-    company_name: Projeto CIn/Motorola
+    company_name: CIn/Motorola Project UFPE FADE, Recife-PE
     company_url: ''
     company_logo: ''
     date_start: 2022-10-17
     date_end: 2024-10-17
     summary: |2-
-      Atuei no Projeto CIn-Motorola, focado na produção e execução de testes de software embarcado para dispositivos móveis da Motorola. Minha principal responsabilidade foi garantir a estabilidade e qualidade do software antes de seu lançamento, através da execução de testes automatizados e manuais, identificação de falhas e desenvolvimento de soluções para otimização dos processos de QA.
-      Principais Atividades e Contribuições:
-      - Testes Automatizados e Estabilidade do Software: Realizei testes automatizados em dispositivos Motorola, assegurando que as novas versões do software mantivessem sua estabilidade e segurança.
-      - Desenvolvimento e Manutenção de Automação: Criei e mantive scripts de automação utilizando Python, pytest, ADB, Git e Docker, reduzindo interações manuais e otimizando fluxos de testes. Trabalhei em ambientes Linux dockerizados, configurando servidores de testes e integrando execuções automatizadas ao Jenkins (CI/CD).
-      - Monitoramento e Suporte a Desenvolvedores: Acompanhei dashboards e logs de execução, identificando crashes e falhas no software. Além disso, forneci suporte aos desenvolvedores, entregando relatórios detalhados para correção de bugs.
-      - Melhoria Contínua e Otimização de Processos: Trabalhei na automação da configuração remota de dispositivos, desde a instalação de novas builds até a execução de testes automatizados, garantindo mais eficiência e menos erros nos processos.
-      - Colaboração Internacional e Metodologias Ágeis: Participei de reuniões baseadas em Scrum, colaborando com equipes globais do Brasil, EUA, Índia e China, garantindo alinhamento entre os times e implementação de melhores práticas de QA.
-      Essa experiência consolidou minhas habilidades em QA, automação de testes, análise de logs, desenvolvimento de soluções de teste e colaboração internacional, além de aprofundar meu conhecimento em ferramentas DevOps e processos ágeis.
+      I worked on the CIn-Motorola Project, focused on the development and execution of embedded software testing for Motorola mobile devices. My main responsibility was to ensure the stability and quality of the software before its release by executing automated and manual tests, identifying bugs, and developing solutions to optimize QA processes.
+      Main Activities and Contributions:
+      - Automated Testing and Software Stability: Performed automated tests on Motorola devices, ensuring that new software versions maintained stability and security.
+      - Automation Development and Maintenance: Created and maintained automation scripts using Python, pytest, ADB, Git, and Docker, reducing manual interactions and optimizing testing workflows. Worked in Dockerized Linux environments, setting up test servers and integrating automated runs into Jenkins (CI/CD).
+      - Monitoring and Developer Support: Monitored dashboards and execution logs, identifying crashes and software issues. Also provided support to developers by delivering detailed bug reports.
+      - Continuous Improvement and Process Optimization: Worked on automating the remote configuration of devices, from installing new builds to executing automated tests, ensuring greater efficiency and fewer errors in processes.
+      - International Collaboration and Agile Methodologies: Participated in Scrum-based meetings, collaborating with global teams from Brazil, the US, India, and China, ensuring alignment across teams and implementation of QA best practices.
+      This experience strengthened my skills in QA, test automation, log analysis, test solution development, and international collaboration, while also deepening my knowledge of DevOps tools and agile processes.
 #  - position: Backend Software Engineer
 #    company_name: X
 #    company_url: ''
