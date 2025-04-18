@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: features
+  - block: skills
       content:
         title: Skills
         text: 'Skills'
