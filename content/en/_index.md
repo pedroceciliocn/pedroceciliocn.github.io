@@ -44,8 +44,8 @@ sections:
   #     columns: '1'
   - block: features
       content:
-        title: eqwewqe
-        text: 'eqwewqewqeq'
+        title: Skills
+        text: 'Skills'
         items:
           - name: App Runtime
             description: 'eqwewqqwe'
