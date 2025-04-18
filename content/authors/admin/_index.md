@@ -24,27 +24,29 @@ role: Software Engineer | QA | Automation | Python | Django | Flask | R | SQL
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: CIn - UFPE
+    url: https://www.ufpe.br/sistemas-de-informacao-bacharelado-cin
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:pedroceciliocn@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/pedroceciliocn
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/pedroceciliocn
+  - icon: academicons/cv
+    url: media/pgd-cv-pccn.html
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0007-6186-9278
+  - icon: brands/whatsapp
+    url: https://wa.me/5587999952777
+  - icon: brands/lastfm
+    url: https://last.fm/user/pedroceciliocn
+  - icon: brands/letterboxd
+    url: https://letterboxd.com/pedroissoai/ 
 
 interests:
   - QA - Test Engineering
