@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Página do Pedro Neto
 
 # Name pronunciation (optional)
 name_pronunciation: Pedro Neto
