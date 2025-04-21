@@ -7,14 +7,14 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
   - name: Skills
     url: /#skillshobbies
-    weight: 12
+    weight: 11
   - name: Experience
     url: experience/
+    weight: 12
+  - name: Papers
+    url: /#papers
     weight: 20
   #- name: Projects
   #  url: projects/

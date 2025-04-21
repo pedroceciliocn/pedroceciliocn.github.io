@@ -7,18 +7,18 @@ main:
   - name: Bio
     url: /
     weight: 10
+  - name: Skills
+    url: /#skillshobbies
+    weight: 11
+  - name: Experiência
+    url: experience/
+    weight: 12
   - name: Publicações
     url: /#papers
-    weight: 11
-  #- name: Talks
-  #  url: /#talks
-  #  weight: 12
+    weight: 20
   #- name: News
   #  url: /#news
   #  weight: 13
-  - name: Experiência
-    url: experience/
-    weight: 20
   #- name: Projetos
   #  url: projects/
   #  weight: 30
