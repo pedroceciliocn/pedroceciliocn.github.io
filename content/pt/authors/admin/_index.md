@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "lastfm"
+  - icon: "367592_lastfm_fm_last.fm_radio_icon"
     url: https://last.fm/user/pedroceciliocn
-  - icon: "letterboxd-brands-solid"
+  - icon: "letterboxd-decal-dots-pos-mono"
     url: https://letterboxd.com/pedroissoai/ 
 
 interests:
@@ -123,31 +123,24 @@ skills:
     items:
       - name: Python
         description: ''
-
-        icon: hb/python
-      - name: Data Science
-        description: ''
-
-        icon: chart-bar
-      - name: SQL
-        description: ''
-
-        icon: circle-stack
+        icon: python-original
+      # - name: Data Science
+      #   description: ''
+      #   icon: chart-bar
+      # - name: SQL
+      #   description: ''
+      #   icon: circle-stack
       - name: Git
         description: ''
-
         icon: git-original
       - name: Confluence
         description: ''
-
         icon: confluence-original
       - name: Docker
         description: ''
-
         icon: docker-original
       - name: Linux
         description: ''
-
         icon: linux-original
 
   - name: Hobbies
