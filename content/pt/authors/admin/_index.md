@@ -130,18 +130,54 @@ skills:
       # - name: SQL
       #   description: ''
       #   icon: circle-stack
+      - name: Django
+        description: ''
+        icon: django-plain
+      - name: Flask
+        description: ''
+        icon: flask-original 
+      - name: pytest
+        description: ''
+        icon: pytest-original 
+      - name: Selenium
+        description: ''
+        icon: selenium-original 
+      - name: Numpy
+        description: ''
+        icon: numpy-original
+      - name: Pandas
+        description: ''
+        icon: pandas-original  
+      - name: PostgreSQL
+        description: ''
+        icon: postgresql-original 
+      - name: R
+        description: ''
+        icon: r-original      
       - name: Git
         description: ''
         icon: git-original
       - name: Confluence
         description: ''
         icon: confluence-original
+      - name: Jira
+        description: ''
+        icon: jira-original
+      - name: Jenkins
+        description: ''
+        icon: jenkins-original
       - name: Docker
         description: ''
         icon: docker-original
       - name: Linux
         description: ''
         icon: linux-original
+      - name: fastapi
+        description: ''
+        icon: fastapi-original
+      - name: mongoDB
+        description: ''
+        icon: mongodb-original
 
   - name: Hobbies
     color: '#eeac02'
