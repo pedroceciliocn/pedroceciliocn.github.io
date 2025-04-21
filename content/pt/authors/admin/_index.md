@@ -43,10 +43,10 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  #- icon: "367592_lastfm_fm_last.fm_radio_icon"
-  #  url: https://last.fm/user/pedroceciliocn
-  #- icon: "letterboxd-decal-dots-pos-mono"
-  #  url: https://letterboxd.com/pedroissoai/ 
+  - icon: "last-fm-svgrepo-com"
+    url: https://last.fm/user/pedroceciliocn
+  - icon: "letterboxd-svgrepo-com"
+    url: https://letterboxd.com/pedroissoai/ 
 
 interests:
   - QA - Test Engineering
@@ -124,12 +124,6 @@ skills:
       - name: Python
         description: ''
         icon: python-original
-      # - name: Data Science
-      #   description: ''
-      #   icon: chart-bar
-      # - name: SQL
-      #   description: ''
-      #   icon: circle-stack
       - name: Django
         description: ''
         icon: django-plain
@@ -153,7 +147,9 @@ skills:
         icon: postgresql-original 
       - name: R
         description: ''
-        icon: r-original      
+        icon: r-original 
+  - name: More skills
+    items:     
       - name: Git
         description: ''
         icon: git-original
@@ -178,6 +174,9 @@ skills:
       - name: mongoDB
         description: ''
         icon: mongodb-original
+      - name: mySQL
+        description: ''
+        icon: mysql-original
 
   - name: Hobbies
     color: '#eeac02'

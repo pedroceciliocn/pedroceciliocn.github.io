@@ -44,9 +44,9 @@ profiles:
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
   - icon: "last-fm-svgrepo-com"
-   url: https://last.fm/user/pedroceciliocn
+    url: https://last.fm/user/pedroceciliocn
   - icon: "letterboxd-svgrepo-com"
-   url: https://letterboxd.com/pedroissoai/ 
+    url: https://letterboxd.com/pedroissoai/ 
 
 interests:
   - QA - Test Engineering
