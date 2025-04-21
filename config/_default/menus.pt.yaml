@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Skills
-    url: /#skillshobbies
+    url: /#skillsandhobbies
     weight: 11
   - name: Experiência
     url: experience/
@@ -16,9 +16,6 @@ main:
   - name: Publicações
     url: /#papers
     weight: 20
-  #- name: News
-  #  url: /#news
-  #  weight: 13
   #- name: Projetos
   #  url: projects/
   #  weight: 30
