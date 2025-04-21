@@ -42,7 +42,6 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-
   - block: skills
     content:
       title: Skills & Hobbies
@@ -69,7 +68,6 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  
   # - block: collection
   #   id: talks
   #   content:
