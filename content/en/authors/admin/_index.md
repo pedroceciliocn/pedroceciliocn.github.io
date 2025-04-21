@@ -67,8 +67,8 @@ education:
 work:
   - position: Software Testing Intern
     company_name: CIn/Motorola Project UFPE FADE, Recife-PE
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.linkedin.com/company/cinmotorola/posts/?feedView=all'
+    company_logo: 'cin_motorola_logo'
     date_start: 2022-10-17
     date_end: 2024-10-17
     summary: |2-
@@ -201,7 +201,7 @@ awards:
     url: https://www.linkedin.com/company/2696602/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bkrnagyn%2BTAeS9fZagFzJDw%3D%3D
     date: '2025-01-06'
     awarder: Codecademy
-    icon: codeacademy
+    icon: codecademy-svgrepo-com
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: SQL Fundamentals Track (PostgreSQL)
