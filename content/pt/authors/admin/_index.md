@@ -63,12 +63,12 @@ education:
   #button:
   #  text: 'Read Thesis'
   #  url: 'https://example.com'
-  - area: Bacharelado em Administração
-    institution: UNIVASF (Universidade Federal do Vale do São Francisco), Petrolina-PE
-    date_start: 2019-01-01
-    date_end: 2020-01-31
-    summary: |
-      Participei do projeto de extensão UNATI (Universidade Aberta à Terceira Idade), ministrando palestras sobre tecnologia e acessibilidade, e desenvolvendo conteúdos audiovisuais com foco em saúde mental e física para a terceira idade durante a pandemia.
+  # - area: Bacharelado em Administração
+  #   institution: UNIVASF (Universidade Federal do Vale do São Francisco), Petrolina-PE
+  #   date_start: 2019-01-01
+  #   date_end: 2020-01-31
+  #   summary: |
+  #     Participei do projeto de extensão UNATI (Universidade Aberta à Terceira Idade), ministrando palestras sobre tecnologia e acessibilidade, e desenvolvendo conteúdos audiovisuais com foco em saúde mental e física para a terceira idade durante a pandemia.
   #
   #    Courses included:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -179,7 +179,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Gym
+      - name: Academia
         description: ''
 
         icon: person-simple-walk
@@ -187,30 +187,30 @@ skills:
         description: ''
 
         icon: person-simple-walk
-      - name: Dogs
+      - name: Cachorros
         description: ''
 
         icon: dog
-      - name: Cooking
+      - name: Cozinhar
         description: ''
 
         icon: food
-      - name: Drawing
+      - name: Desenhar
         description: ''
 
-      - name: Soccer
+      - name: Futebol
         description: ''
 
         icon: ball
-      - name: Reading
+      - name: Leitura
         description: ''
 
         icon: book
-      - name: Dancing
+      - name: Dança
         description: ''
 
         icon: dance
-      - name: Podcast listening
+      - name: Podcasts
         description: ''
 
         icon: headphone
