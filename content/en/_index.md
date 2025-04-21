@@ -49,10 +49,19 @@ sections:
       username: 'admin'
     design:
       columns: '3'
-      
   - block: collection
     content:
       title: Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
+      title: Featured Publications
       text: ""
       filters:
         folders:
