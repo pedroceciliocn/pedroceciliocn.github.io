@@ -230,32 +230,37 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
-#       - Synthesize your own blockchain solutions
-#       - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   - title: 'Object-Oriented Programming in R'
-#     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-#     certificate_url: https://www.datacamp.com
-#     date: '2023-01-21'
-#     awarder: datacamp
-#     icon: datacamp
-#     summary: |
-#       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+awards:
+  - title: BI Dashboards with Power BI Course
+    url: https://www.linkedin.com/company/2696602/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3Bkrnagyn%2BTAeS9fZagFzJDw%3D%3D
+    date: '2025-01-06'
+    awarder: Codecademy
+    icon: codecademy-svgrepo-com
+    summary: |
+      Durante este curso, aprofundei meus conhecimentos em business intelligence e na criação de dashboards interativos. Aprendi a utilizar o Power BI para transformar dados brutos em visualizações impactantes, explorando recursos como modelagem de dados, criação de medidas com DAX e integração de múltiplas fontes de dados. Ao final, estava apto a desenvolver relatórios dinâmicos que auxiliam na tomada de decisões estratégicas.
+  - title: SQL Fundamentals Track (PostgreSQL)
+    url: https://datacamp.com/profile/pedroceciliocn
+    date: '2024-09-09'
+    awarder: DataCamp
+    icon: datacamp
+    summary: |
+      Estudei os conceitos fundamentais de SQL e bancos de dados relacionais. Ao final, estava familiarizado com as principais tendências tecnológicas que impulsionam o crescimento do SQL; fui capaz de escrever consultas para selecionar, filtrar e agregar dados; unir tabelas para combinar dados de várias fontes; usar subconsultas e funções de janela para análises complexas; limpar e manipular dados usando funções do PostgreSQL; e aplicar o SQL em meus próprios projetos de análise de dados. 
+  - title: 'Introduction to Data Science in Python'
+    url: https://www.coursera.org/learn/python-data-analysis
+    certificate_url: https://coursera.org/share/52b3dd4d30b197dc95450bb819c1bb69
+    date: '2021-08-14'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Este curso proporcionou uma introdução abrangente à ciência de dados utilizando Python. Trabalhei com bibliotecas essenciais como pandas e NumPy para manipulação e análise de dados. Aprendi a lidar com conjuntos de dados reais, aplicando técnicas de limpeza, transformação e visualização, estabelecendo uma base sólida para projetos analíticos futuros.
+  - title: 'Data Scientist with R Track'
+    url: https://learn.datacamp.com/career-tracks/data-scientist-with-r?version=4
+    certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/bc1f187365f1d876373d4bf02194090452333e65
+    date: '2020-09-09'
+    awarder: DataCamp
+    icon: datacamp
+    summary: |
+      Ao longo deste extenso programa, completei 19 cursos totalizando 76 horas de estudo, focando na formação de cientista de dados com R. Aprendi a importar, limpar, manipular e visualizar dados utilizando pacotes como dplyr, ggplot2 e readr. Além disso, explorei fundamentos de estatística e machine learning, capacitando-me a desenvolver análises robustas e modelos preditivos com R.
 ---
 
 ## Sobre mim

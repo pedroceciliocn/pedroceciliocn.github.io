@@ -203,18 +203,14 @@ awards:
     awarder: Codecademy
     icon: codecademy-svgrepo-com
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      In this course, I delved into the principles of business intelligence and the art of crafting interactive dashboards. I learned to harness Power BI's capabilities to transform raw data into compelling visual narratives, utilizing features like data modeling, DAX measures, and multi-source data integration. By the end, I was proficient in developing dynamic reports that support strategic decision-making.
   - title: SQL Fundamentals Track (PostgreSQL)
     url: https://datacamp.com/profile/pedroceciliocn
     date: '2024-09-09'
     awarder: DataCamp
     icon: datacamp
     summary: |
-      Master the SQL fundamentals needed for business, learn how to write SQL queries, and start analyzing your data using this powerful language.
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      This track provided a comprehensive introduction to SQL, with a focus on PostgreSQL. I acquired skills to write efficient queries, perform table joins, and apply aggregate and window functions. Additionally, I enhanced my techniques for data cleaning and manipulation, equipping me for more in-depth and structured analyses.
   - title: 'Introduction to Data Science in Python'
     url: https://www.coursera.org/learn/python-data-analysis
     certificate_url: https://coursera.org/share/52b3dd4d30b197dc95450bb819c1bb69
@@ -222,7 +218,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      This course offered a thorough introduction to data science using Python. I worked with essential libraries such as pandas and NumPy for data manipulation and analysis. I learned to handle real-world datasets, applying techniques for cleaning, transformation, and visualization, laying a solid foundation for future analytical projects.
   - title: 'Data Scientist with R Track'
     url: https://learn.datacamp.com/career-tracks/data-scientist-with-r?version=4
     certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/bc1f187365f1d876373d4bf02194090452333e65
@@ -230,7 +226,7 @@ awards:
     awarder: DataCamp
     icon: datacamp
     summary: |
-      19 cursos completados totalizando 76 horas de estudo em uma introdução para a carreira de Cientista/Analsita de Dados usando a linguagem R.
+      Throughout this extensive program, I completed 19 courses totaling 76 hours of study, focusing on training as a data scientist with R. I learned to import, clean, manipulate, and visualize data using packages like dplyr, ggplot2, and readr. Furthermore, I explored fundamentals of statistics and machine learning, enabling me to develop robust analyses and predictive models with R.
 ---
 
 ## About Me
