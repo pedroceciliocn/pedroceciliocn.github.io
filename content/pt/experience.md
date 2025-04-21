@@ -26,7 +26,7 @@ sections:
       show_skill_percentage: false
   - block: resume-awards
     content:
-      title: Certificados
+      title: Cursos
       username: admin
   - block: resume-languages
     content:
