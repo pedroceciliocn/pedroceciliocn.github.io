@@ -99,10 +99,11 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-  - block: experience
-    content:
-      title: Work Experience
-      username: 'admin'
+ 
+  #- block: experience
+  #  content:
+  #    title: Work Experience
+  #    username: 'admin'
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
