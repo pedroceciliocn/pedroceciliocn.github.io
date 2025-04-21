@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "custom/lastfm"
+  - icon: "lastfm"
     url: https://last.fm/user/pedroceciliocn
-  - icon: "custom/letterboxd-brands-solid"
+  - icon: "letterboxd-brands-solid"
     url: https://letterboxd.com/pedroissoai/ 
 
 interests:
@@ -123,32 +123,72 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
+
+        icon: hb/python
       - name: Data Science
         description: ''
-        percent: 100
+
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+
         icon: circle-stack
+      - name: Git
+        description: ''
+
+        icon: git-original
+      - name: Confluence
+        description: ''
+
+        icon: confluence-original
+      - name: Docker
+        description: ''
+
+        icon: docker-original
+      - name: Linux
+        description: ''
+
+        icon: linux-original
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Gym
         description: ''
-        percent: 60
+
         icon: person-simple-walk
-      - name: Cats
+      - name: Walking
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+
+        icon: person-simple-walk
+      - name: Dogs
         description: ''
-        percent: 80
-        icon: camera
+
+        icon: dog
+      - name: Cooking
+        description: ''
+
+        icon: food
+      - name: Drawing
+        description: ''
+
+      - name: Soccer
+        description: ''
+
+        icon: ball
+      - name: Reading
+        description: ''
+
+        icon: book
+      - name: Dancing
+        description: ''
+
+        icon: dance
+      - name: Podcast listening
+        description: ''
+
+        icon: headphone
 
 languages:
   - name: English

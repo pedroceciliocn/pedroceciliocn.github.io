@@ -43,9 +43,9 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "custom/lastfm"
+  - icon: "lastfm"
     url: https://last.fm/user/pedroceciliocn
-  - icon: "custom/letterboxd-brands-solid"
+  - icon: "letterboxd-brands-solid"
     url: https://letterboxd.com/pedroissoai/ 
 
 interests:
@@ -112,19 +112,19 @@ skills:
       - name: Git
         description: ''
 
-        icon: custom/git-original
+        icon: git-original
       - name: Confluence
         description: ''
 
-        icon: custom/confluence-original
+        icon: confluence-original
       - name: Docker
         description: ''
 
-        icon: brands/docker
+        icon: docker-original
       - name: Linux
         description: ''
 
-        icon: brands/linux
+        icon: linux-original
 
   - name: Hobbies
     color: '#eeac02'
