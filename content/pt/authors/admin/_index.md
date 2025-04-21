@@ -43,8 +43,8 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "367592_lastfm_fm_last.fm_radio_icon"
-    url: https://last.fm/user/pedroceciliocn
+  #- icon: "367592_lastfm_fm_last.fm_radio_icon"
+  #  url: https://last.fm/user/pedroceciliocn
   - icon: "letterboxd-decal-dots-pos-mono"
     url: https://letterboxd.com/pedroissoai/ 
 
