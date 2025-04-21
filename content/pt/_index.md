@@ -43,7 +43,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: skills
-    id: skillsandhobbies
+    id: hobbies
     content:
       title: Skills & Hobbies
       username: 'admin'

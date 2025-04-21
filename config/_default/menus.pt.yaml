@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Skills
-    url: /#skillsandhobbies
+    url: /#hobbies
     weight: 11
   - name: Experiência
     url: experience/
