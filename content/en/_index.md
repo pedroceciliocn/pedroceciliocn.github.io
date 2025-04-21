@@ -99,7 +99,7 @@ sections:
   #     # Reduce spacing
   #     spacing:
   #       padding: [0, 0, 0, 0]
-  - block: work
+  - block: experience
     content:
       title: Work Experience
       username: 'admin'
