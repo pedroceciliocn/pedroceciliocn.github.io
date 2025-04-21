@@ -43,10 +43,10 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "last-fm-svgrepo-com"
-    url: https://last.fm/user/pedroceciliocn
-  - icon: "letterboxd-svgrepo-com"
-    url: https://letterboxd.com/pedroissoai/ 
+  #- icon: "last-fm-svgrepo-com"
+  #  url: https://last.fm/user/pedroceciliocn
+  #- icon: "letterboxd-svgrepo-com"
+  #  url: https://letterboxd.com/pedroissoai/ 
 
 interests:
   - QA - Test Engineering
@@ -160,38 +160,29 @@ skills:
     items:
       - name: Gym
         description: ''
-
         icon: person-simple-walk
       - name: Walking
         description: ''
-
         icon: person-simple-walk
       - name: Dogs
         description: ''
-
         icon: dog
       - name: Cooking
         description: ''
-
         icon: food
       - name: Drawing
         description: ''
-
       - name: Soccer
         description: ''
-
         icon: ball
       - name: Reading
         description: ''
-
         icon: book
       - name: Dancing
         description: ''
-
         icon: dance
       - name: Podcast listening
         description: ''
-
         icon: headphone
 languages:
   - name: English
