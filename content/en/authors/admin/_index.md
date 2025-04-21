@@ -166,24 +166,25 @@ skills:
         icon: person-simple-walk
       - name: Dogs
         description: ''
-        icon: dog
+        icon: dog-svgrepo-com
       - name: Cooking
         description: ''
-        icon: food
+        icon: cook-svgrepo-com
       - name: Drawing
         description: ''
+        icon: draw-pencil-svgrepo-com
       - name: Soccer
         description: ''
-        icon: ball
+        icon: soccer-field-2-svgrepo-com
       - name: Reading
         description: ''
-        icon: book
+        icon: book-svgrepo-com
       - name: Dancing
         description: ''
-        icon: dance
+        icon: mirror-ball-disco-svgrepo-com
       - name: Podcast listening
         description: ''
-        icon: headphone
+        icon: podcast-svgrepo-com
 languages:
   - name: English
     percent: 80
