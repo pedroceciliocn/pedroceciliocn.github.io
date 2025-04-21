@@ -44,7 +44,6 @@ sections:
   #     columns: '1'
 
   - block: skills
-    id: hobbies
     content:
       title: Skills & Hobbies
       username: 'admin'
