@@ -100,12 +100,6 @@ skills:
       - name: Python
         description: ''
         icon: python-original
-      # - name: Data Science
-      #   description: ''
-      #   icon: chart-bar
-      # - name: SQL
-      #   description: ''
-      #   icon: circle-stack
       - name: Django
         description: ''
         icon: django-plain
@@ -129,7 +123,9 @@ skills:
         icon: postgresql-original 
       - name: R
         description: ''
-        icon: r-original      
+        icon: r-original 
+  - name: More skills
+    items:     
       - name: Git
         description: ''
         icon: git-original
