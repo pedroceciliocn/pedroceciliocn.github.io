@@ -42,6 +42,12 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
+  - block: skills
+    content:
+      title: Skills
+      username: 'admin'
+    design:
+      columns: '3'
   - block: collection
     id: papers
     content:
