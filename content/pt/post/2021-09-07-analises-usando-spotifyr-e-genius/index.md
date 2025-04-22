@@ -258,7 +258,7 @@ ggplot(wolf_alice, aes(x = valence, y = album_name)) +
     theme(axis.title = element_blank())
 ```
 
-![](index.pt_files/figure-html/plot cinza-1.png)<!-- -->
+![](index.files/figure-html/plot cinza-1.png)<!-- -->
 Agora um plot mais colorido (inspirado no post da [Simran Vatsa no Medium](https://medium.com/@simranvatsa5/taylor-f656e2a09cc3)):
 
 ```r
@@ -275,7 +275,7 @@ wolf_alice %>% ggplot(aes(x = valence, y = album_name, fill = ..x..)) +
   labs(caption = "(Feito com os dados de valência da API do spotify usando o spotifyR)")
 ```
 
-![](index.pt_files/figure-html/plot mais bonito-1.png)<!-- -->
+![](index.files/figure-html/plot mais bonito-1.png)<!-- -->
 **Tá, mas o que essas curvas realmente significam ou mostram?**
 Elas mostram a distribuição de músicas de acordo justamente com a 'positividade'. Olhando pra cada uma delas, para cada um dos álbuns, nota-se que há um maior 'volume' de faixas não tão positivas assim nos 3 álbuns (por isso a maior montanha está em torno dos valores de 0~0.25).
 
@@ -650,7 +650,7 @@ wordsPlot <- ggplot(topFew) +
 wordsPlot
 ```
 
-![](index.pt_files/figure-html/unnamed-chunk-32-1.png)<!-- -->
+![](index.files/figure-html/unnamed-chunk-32-1.png)<!-- -->
 
 ```r
 # salvando a imagem
@@ -717,7 +717,7 @@ w_a_plot <- ggplot(wolf_alice_sentiments,
 w_a_plot # chamando o plot
 ```
 
-![](index.pt_files/figure-html/unnamed-chunk-33-1.png)<!-- -->
+![](index.files/figure-html/unnamed-chunk-33-1.png)<!-- -->
 
 ```r
 # salvando a imagem
