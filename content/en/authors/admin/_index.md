@@ -43,10 +43,10 @@ profiles:
     url: https://orcid.org/0009-0007-6186-9278
   - icon: brands/whatsapp
     url: https://wa.me/5587999952777
-  - icon: "lastfm-svgrepo-com (2)"
-    url: https://last.fm/user/pedroceciliocn
-  - icon: "letterboxd-svgrepo-com (2)"
-    url: https://letterboxd.com/pedroissoai/ 
+  #- icon: "lastfm-svgrepo-com (2)"
+  #  url: https://last.fm/user/pedroceciliocn
+  #- icon: "letterboxd-svgrepo-com (2)"
+  #  url: https://letterboxd.com/pedroissoai/ 
 
 interests:
   - QA - Test Engineering
