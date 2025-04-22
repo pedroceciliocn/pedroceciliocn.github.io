@@ -1,11 +1,7 @@
 ---
 title: Analises usando spotifyr e genius
-author: Pedro Neto
+authors: admin
 date: '2021-09-07'
-output:   
-  html_document: 
-    keep_md: yes
-slug: analises-usando-spotifyr-e-genius
 categories:
   - random
   - análise
@@ -19,16 +15,12 @@ tags:
   - Genius
 subtitle: ''
 summary: 'Breve análise de dados de músicas e álbuns usando a linguagem R e os pacotes para uso das APIs do Spotify e do Genius.'
-authors: ['Pedro Neto']
-lastmod: '2021-09-07T02:48:25-03:00'
 featured: no
 image:
   placement: 2
   caption: ''
   focal_point: 'Left'
   preview_only: yes
-projects: []
-self_contained: false
     
 ---
 
