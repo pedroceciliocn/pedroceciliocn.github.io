@@ -1,0 +1,7 @@
+default:
+  SPOTIFY_CLIENT_ID: "something is wrong"
+  SPOTIFY_CLIENT_SECRET: "something is wrong"
+
+spotify_keys:
+  SPOTIFY_CLIENT_ID: a9547da6bd1f437486fb143bb79eab72
+  SPOTIFY_CLIENT_SECRET: e0dfca18c3e044139c9d747fb1b52979
