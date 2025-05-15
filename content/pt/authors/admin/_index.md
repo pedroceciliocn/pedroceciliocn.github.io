@@ -134,6 +134,9 @@ skills:
       - name: Python
         description: ''
         icon: python-original
+      - name: Javascript
+        description: ''
+        icon: javascript-logo-svgrepo-com
       - name: Django
         description: ''
         icon: django-plain
@@ -160,6 +163,9 @@ skills:
         icon: r-original 
   - name: More skills
     items:     
+      - name: Wordpress
+        description: ''
+        icon: wordpress-logo-svgrepo-com
       - name: Git
         description: ''
         icon: git-original
@@ -204,6 +210,10 @@ skills:
         description: ''
 
         icon: dog
+      - name: Filmes
+        description: ''
+
+        icon: movies
       - name: Cozinhar
         description: ''
 
