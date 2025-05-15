@@ -86,6 +86,18 @@ education:
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Desenvolvedor Fullstack
+    company_name: SirCruX Studios
+    company_url: 'https://sircrux.com/'
+    company_logo: 'sircruxlogo'
+    date_start: 2025-03-01
+    date_end: 
+    summary: |2-
+      Atuo como desenvolvedor fullstack na SirCrux Studios, contribuindo para o desenvolvimento de aplicações web e experiências visuais interativas voltadas para os setores de marketing, tecnologia e saúde, atendendo clientes no Brasil e nos Estados Unidos.
+      Durante esse período, desenvolvi websites e aplicações responsivas com foco em usabilidade e desempenho, utilizando tecnologias como JavaScript, HTML, CSS, Bootstrap e Three.js para criar interfaces com elementos 3D interativos. No back-end, implementei lógicas e integrações com APIs e CMSs como Wordpress, utilizando Node.js para construir soluções escaláveis e de fácil manutenção.
+      Participei de reuniões com clientes, garantindo a adaptação das soluções às necessidades específicas de cada projeto, e colaborei com designers via Figma, assegurando uma implementação fiel aos layouts propostos. Trabalho com metodologias ágeis (Scrum/Kanban), realizando versionamento de código com Git e GitHub ao longo de todo o ciclo de vida dos projetos.
+      Essa experiência tem ampliado meu domínio técnico como desenvolvedor fullstack e reforçado minha capacidade de entregar soluções funcionais e visualmente impactantes em ambientes colaborativos.
+
   - position: Software Testing Intern
     company_name: Projeto CIn/Motorola
     company_url: ''
@@ -262,5 +274,5 @@ awards:
 
 ## Sobre mim
 
-Sou estudante de graduação em Sistemas de Informação pela Universidade Federal de Pernambuco (UFPE), com um forte interesse em automação, webscraping, análise de dados, engenharia de software e IA (mais precisamente em visão computacional). Fui estagiário no Projeto CIn/Motorola, onde atuei diretamente com equipes multidisciplinares do Brasil, Estados Unidos, Índia e China, desenvolvendo habilidades de colaboração em um ambiente global para garantir a qualidade de software em dispositivos móveis.
-Minha experiência incluiu a criação e manutenção de scripts de automação de testes, execução de testes automatizados, e a utilização de ferramentas como Python, Linux, ADB, Jenkins, Docker, Git, também adquiri conhecimento em metodologias ágeis. Além disso, possuo conhecimento em desenvolvimento com Django e Flask, além de, em análise de dados, manipulação de estruturas como DataFrames e aplicação de bibliotecas como Pandas, NumPy e Matplotlib para visualização e interpretação de dados.
+Graduando em Sistemas de Informação pela Universidade Federal de Pernambuco (UFPE), com experiência prática em desenvolvimento fullstack e engenharia de qualidade de software. Atuo com desenvolvimento de APIs, sistemas web e automações utilizando Python, JavaScript, Django, Flask, FastAPI e Node.js. Possuo vivência com testes automatizados (pytest, Selenium, UI Automator), CI/CD com Jenkins e Docker, versionamento com Git, e gerenciamento de tarefas com Jira e Confluence. 
+Trabalhei em projetos voltados à validação de software embarcado, qualidade contínua e automação de fluxos de teste em ambiente Linux, colaborando com times ágeis e multiculturais. Tenho também familiaridade com bancos de dados relacionais e NoSQL (PostgreSQL, MongoDB), além de conhecimento em análise de dados com Pandas e visualizações em Power BI. Busco constantemente aprimorar minhas habilidades técnicas e contribuir com soluções eficientes, escaláveis e bem testadas.
