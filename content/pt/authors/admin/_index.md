@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Software Engineer | QA | Automation | Python | Django | Flask | R | SQL
+role: Software Engineer | Fullstack Developer (Python/JS) | Backend com FastAPI e Django/Flask | QA e Automação de Testes | CI/CD | SQL & NoSQL | Docker | Git
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,6 +46,7 @@ profiles:
 
 
 interests:
+  - Fullstack Developing
   - QA - Test Engineering
   - Automação (CI/CD)
   - Análise de Dados
