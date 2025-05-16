@@ -165,7 +165,7 @@ skills:
     items:     
       - name: WP
         description: ''
-        icon: icons8-wordpress-128
+        icon: icons8-wordpress-50
       - name: Git
         description: ''
         icon: git-original
