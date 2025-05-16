@@ -134,9 +134,9 @@ skills:
       - name: Python
         description: ''
         icon: python-original
-      - name: Javascript
+      - name: JS
         description: ''
-        icon: javascript-logo-svgrepo-com
+        icon: icons8-javascript
       - name: Django
         description: ''
         icon: django-plain
@@ -163,9 +163,9 @@ skills:
         icon: r-original 
   - name: More skills
     items:     
-      - name: Wordpress
+      - name: WP
         description: ''
-        icon: wordpress-logo-svgrepo-com
+        icon: icons8-wordpress-128
       - name: Git
         description: ''
         icon: git-original
